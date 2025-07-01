@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1Y_H6bryQshaxZPwd6Xum13DAmDRMAHSt
 """
 
-''' linear search ins sorted array
+''' linear search ins sorted array'''
 [45,-9,77,32]
 1.arr of list of size n
 2.key for search element
